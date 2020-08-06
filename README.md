@@ -1,4 +1,3 @@
-
 # Introduction to Variables: Variable Assignment
 
 ## Introduction
@@ -142,7 +141,7 @@ We have seen that we can have data without assigning it to variables.
 
 
 
-Sometimes we wish to declare a variable without assigning it to data.  In Python, that's a little tricky to do.  As we just saw with `name`, declaring variables without assignment throws an error.  Thankfully, Python has a special type for us that represents nothing at all.
+Sometimes we wish to declare a variable without assigning it to data.  In Python, that's a little tricky to do.  As we just saw with `full_name`, declaring variables without assignment throws an error.  Thankfully, Python has a special type for us that represents nothing at all.
 
 
 ```python
